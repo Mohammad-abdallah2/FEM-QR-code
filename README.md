@@ -1,3 +1,6 @@
+The view live
+https://mohammad-abdallah2.github.io/FEM-QR-code/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
